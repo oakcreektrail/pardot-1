@@ -1,5 +1,5 @@
 {
-  "name": "pardot",
+  "name": "pardot-oct",
   "version": "0.0.6",
   "description": "A pardot API client",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/micahlmartin/pardot"
+    "url": "https://github.com/oakcreektrail/pardot-1"
   },
   "keywords": [
     "pardot",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/micahlmartin/pardot/issues"
+    "url": "https://github.com/oakcreektrail/pardot-1/issues"
   },
-  "homepage": "https://github.com/micahlmartin/pardot",
+  "homepage": "https://github.com/oakcreektrail/pardot-1",
   "dependencies": {
     "hoek": "^2.11.0",
     "q": "^1.1.2",
