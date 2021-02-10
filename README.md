@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/micahlmartin/pardot/tree/master.svg?style=svg)](https://circleci.com/gh/micahlmartin/pardot/tree/master)
 
-This is a node client wrapper for v3 of the Pardot API.
+This is a node client wrapper for v3/4 of the Pardot API.
 
 ## Table of Contents
 
